@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Top anime and manga</string>
+
+    <string name="menu_anime">Anime</string>
+    <string name="menu_manga">Manga</string>
+    <string name="menu_about">About</string>
+
+    <string name="episodes">Episodes</string>
+    <string name="volumes">Volumes</string>
+
+    <string name="genres">Genres:</string>
+    <string name="rating">Rating:</string>
+    <string name="release">Release:</string>
+    <string name="author">Author:</string>
+    <string name="authors">Authors:</string>
+    <string name="studio">Studio:</string>
+    <string name="studios">Studios:</string>
+    <string name="score">Score:</string>
+
+    <string name="nothing_found">Nothing was found</string>
+    <string name="content_description">image</string>
+
+    <string name="api_info"><![CDATA[Created using <a href="https://jikan.moe/">Jikan API</a>]]></string>
+    <string name="author_info"><![CDATA[Made by <a href="https://github.com/AnnMz">AnnMz</a>]]></string>
+</resources>
